@@ -7,7 +7,7 @@ It combines journaling, mindful doodling, AI-based burnout risk prediction, and 
 
 🔗 Live Demo
 
-**🚀 Try it here:** [SynapseSpace (Deployed App)]([https://your-deployed-link-here](https://synapsespace-zxwjmahsjydlea5saa8jlk.streamlit.app/))
+**🚀 Try it here:** [SynapseSpace (Deployed App)](https://synapsespace-zxwjmahsjydlea5saa8jlk.streamlit.app/)
 
 ---
 
