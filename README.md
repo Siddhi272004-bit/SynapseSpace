@@ -5,6 +5,12 @@ It combines journaling, mindful doodling, AI-based burnout risk prediction, and 
 
 ---
 
+🔗 Live Demo
+
+**🚀 Try it here:** [SynapseSpace (Deployed App)]([https://your-deployed-link-here](https://synapsespace-zxwjmahsjydlea5saa8jlk.streamlit.app/))
+
+---
+
 ## ✨ Features
 
 - **📖 Daily Journal** – Write and save your thoughts; auto-saves by date. Word count and estimated reading time included.  
